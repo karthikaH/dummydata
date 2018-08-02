@@ -1,0 +1,117 @@
+[
+    {
+        "item": "Pickles",
+        "data": [
+            {
+                "img": "../../images/Apple_Pickle.jpg",
+                "title": "Mango",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/indian_snacks.jpg",
+                "title": "Tomato",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/weekly_special.png",
+                "title": "Tamarind",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/weekly_special.png",
+                "title": "Fish",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/weekly_special.png",
+                "title": "Garlic",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/weekly_special.png",
+                "title": "Lemon",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }
+        ]
+    },
+    {
+        "item": "Snacks",
+        "data": [
+            {
+                "img": "../../images/Apple_Pickle.jpg",
+                "title": "Samosas",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/indian_snacks.jpg",
+                "title": "Chicken Sandwich",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/weekly_special.png",
+                "title": "Puffs",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }
+        ]
+    },
+    {
+        "item": "Weekly Specials",
+        "data": [
+            {
+                "img": "../../images/weekly_special.png",
+                "title": "Kaaju Kutle",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/indian_snacks.jpg",
+                "title": "Kaseri",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }
+        ]
+    },
+    {
+        "item": "Seasonals",
+        "data": [
+            {
+                "img": "../../images/weekly_special.png",
+                "title": "Mango Pulishery",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }, {
+                "img": "../../images/indian_snacks.jpg",
+                "title": "Avocado Shake",
+                "description": "Traditional Indian pickle made from the original mangoes",
+                "price": 120,
+                "weight": 250,
+                "qty":0
+            }
+        ]
+    }
+]
